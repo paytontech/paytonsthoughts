@@ -3,4 +3,6 @@ This is the swift project (and thoughts) for my upcoming app, Payton's Thoughts!
 
 __________
 
-This github repo shows all the source code I used to make this app. The app recieves my thoughts via the thoughts file in the main repo.
+This github repo shows all the source code I used to make this app. The app recieves my thoughts via the thoughts file in the main repo. 
+
+UPDATE: I have submitted this app to the App Store and am awaiting approval. I will update everyone with the link once it is accepted (Sorry, IF it is accepted.)
