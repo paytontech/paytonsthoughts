@@ -5,4 +5,4 @@ __________
 
 This github repo shows all the source code I used to make this app. The app recieves my thoughts via the thoughts file in the main repo. 
 
-UPDATE: I have submitted this app to the App Store and am awaiting approval. I will update everyone with the link once it is accepted (Sorry, IF it is accepted.)
+As of right now, the app is only available on iOS, but I plan on bringing it to Android, Windows, macOS, and even the internet.
